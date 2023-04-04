@@ -215,6 +215,7 @@
     "update-browserslist-db": "^1.0.10",
     "util-deprecate": "^1.0.2",
     "v8-to-istanbul": "^9.1.0",
+    "validate-color": "^2.2.4",
     "walker": "^1.0.8",
     "wcwidth": "^1.0.1",
     "which": "^2.0.2",
@@ -228,7 +229,7 @@
     "yocto-queue": "^0.1.0"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
