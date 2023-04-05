@@ -35,6 +35,14 @@ Corbin Spence
 
 To test this program, type "npm test" to run basic tests on the code.
 
+## ScreenShot
+
+![black triangle](./svg_snapshot.png)
+
+## Video Demo
+
+[Demo link](https://drive.google.com/file/d/1jAIvZ8BJCXax01dyI1c3gILDerRnE8zL/view)
+
 ## Questions
 
 Github: [profile](https://github.com/CorbinSpence)
