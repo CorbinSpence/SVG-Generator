@@ -31,6 +31,10 @@ None
 
 Corbin Spence
 
+## Sources
+
+SVG code altered from templates from [www.w3chools.com](https://www.w3schools.com/graphics/svg_intro.asp).
+
 ## Tests
 
 To test this program, type "npm test" to run basic tests on the code.
